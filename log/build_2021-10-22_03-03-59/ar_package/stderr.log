@@ -1,0 +1,5 @@
+  File "/home/sg_user/SG/ros2_test_python/install/ar_package/lib/python3.8/site-packages/ar_package/ar_node.py", line 10
+    # 定期的に呼ばれる
+    ^
+SyntaxError: invalid character in identifier
+

@@ -1,0 +1,30 @@
+[0.323s] Invoking command in '/home/sg_user/SG/ros2_test_python/src/ar_package': PYTHONPATH=/home/sg_user/SG/ros2_test_python/install/ar_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ar_package build --build-base /home/sg_user/SG/ros2_test_python/build/ar_package/build install --prefix /home/sg_user/SG/ros2_test_python/install/ar_package --record /home/sg_user/SG/ros2_test_python/build/ar_package/install.log --single-version-externally-managed
+[0.572s] /home/sg_user/.local/lib/python3.8/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[0.572s]   warnings.warn(
+[0.573s] /home/sg_user/.local/lib/python3.8/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'install-scripts' will not be supported in future versions. Please use the underscore name 'install_scripts' instead
+[0.573s]   warnings.warn(
+[0.609s] running egg_info
+[0.609s] writing ../../build/ar_package/ar_package.egg-info/PKG-INFO
+[0.610s] writing dependency_links to ../../build/ar_package/ar_package.egg-info/dependency_links.txt
+[0.610s] writing entry points to ../../build/ar_package/ar_package.egg-info/entry_points.txt
+[0.610s] writing requirements to ../../build/ar_package/ar_package.egg-info/requires.txt
+[0.610s] writing top-level names to ../../build/ar_package/ar_package.egg-info/top_level.txt
+[0.613s] reading manifest file '../../build/ar_package/ar_package.egg-info/SOURCES.txt'
+[0.614s] writing manifest file '../../build/ar_package/ar_package.egg-info/SOURCES.txt'
+[0.614s] running build
+[0.615s] running build_py
+[0.615s] copying ar_package/ar_node.py -> /home/sg_user/SG/ros2_test_python/build/ar_package/build/lib/ar_package
+[0.615s] running install
+[0.615s] /home/sg_user/.local/lib/python3.8/site-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.615s]   warnings.warn(
+[0.616s] running install_lib
+[0.617s] copying /home/sg_user/SG/ros2_test_python/build/ar_package/build/lib/ar_package/ar_node.py -> /home/sg_user/SG/ros2_test_python/install/ar_package/lib/python3.8/site-packages/ar_package
+[0.618s] byte-compiling /home/sg_user/SG/ros2_test_python/install/ar_package/lib/python3.8/site-packages/ar_package/ar_node.py to ar_node.cpython-38.pyc
+[0.620s] running install_data
+[0.620s] running install_egg_info
+[0.622s] removing '/home/sg_user/SG/ros2_test_python/install/ar_package/lib/python3.8/site-packages/ar_package-0.0.0-py3.8.egg-info' (and everything under it)
+[0.622s] Copying ../../build/ar_package/ar_package.egg-info to /home/sg_user/SG/ros2_test_python/install/ar_package/lib/python3.8/site-packages/ar_package-0.0.0-py3.8.egg-info
+[0.624s] running install_scripts
+[0.645s] Installing ar_node script to /home/sg_user/SG/ros2_test_python/install/ar_package/lib/ar_package
+[0.646s] writing list of installed files to '/home/sg_user/SG/ros2_test_python/build/ar_package/install.log'
+[0.669s] Invoked command in '/home/sg_user/SG/ros2_test_python/src/ar_package' returned '0': PYTHONPATH=/home/sg_user/SG/ros2_test_python/install/ar_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ar_package build --build-base /home/sg_user/SG/ros2_test_python/build/ar_package/build install --prefix /home/sg_user/SG/ros2_test_python/install/ar_package --record /home/sg_user/SG/ros2_test_python/build/ar_package/install.log --single-version-externally-managed

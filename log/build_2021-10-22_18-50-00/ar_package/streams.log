@@ -1,0 +1,21 @@
+[0.244s] Invoking command in '/home/sg_user/SG/ros2_test_python/src/ar_package': PYTHONPATH=/home/sg_user/SG/ros2_test_python/install/ar_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ar_package build --build-base /home/sg_user/SG/ros2_test_python/build/ar_package/build install --prefix /home/sg_user/SG/ros2_test_python/install/ar_package --record /home/sg_user/SG/ros2_test_python/build/ar_package/install.log --single-version-externally-managed
+[0.491s] running egg_info
+[0.492s] writing ../../build/ar_package/ar_package.egg-info/PKG-INFO
+[0.492s] writing dependency_links to ../../build/ar_package/ar_package.egg-info/dependency_links.txt
+[0.492s] writing entry points to ../../build/ar_package/ar_package.egg-info/entry_points.txt
+[0.493s] writing requirements to ../../build/ar_package/ar_package.egg-info/requires.txt
+[0.493s] writing top-level names to ../../build/ar_package/ar_package.egg-info/top_level.txt
+[0.537s] reading manifest file '../../build/ar_package/ar_package.egg-info/SOURCES.txt'
+[0.538s] writing manifest file '../../build/ar_package/ar_package.egg-info/SOURCES.txt'
+[0.538s] running build
+[0.538s] running build_py
+[0.538s] running install
+[0.539s] running install_lib
+[0.541s] running install_data
+[0.541s] running install_egg_info
+[0.543s] removing '/home/sg_user/SG/ros2_test_python/install/ar_package/lib/python3.8/site-packages/ar_package-0.0.0-py3.8.egg-info' (and everything under it)
+[0.543s] Copying ../../build/ar_package/ar_package.egg-info to /home/sg_user/SG/ros2_test_python/install/ar_package/lib/python3.8/site-packages/ar_package-0.0.0-py3.8.egg-info
+[0.545s] running install_scripts
+[0.565s] Installing ar_node script to /home/sg_user/SG/ros2_test_python/install/ar_package/lib/ar_package
+[0.566s] writing list of installed files to '/home/sg_user/SG/ros2_test_python/build/ar_package/install.log'
+[0.595s] Invoked command in '/home/sg_user/SG/ros2_test_python/src/ar_package' returned '0': PYTHONPATH=/home/sg_user/SG/ros2_test_python/install/ar_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/ar_package build --build-base /home/sg_user/SG/ros2_test_python/build/ar_package/build install --prefix /home/sg_user/SG/ros2_test_python/install/ar_package --record /home/sg_user/SG/ros2_test_python/build/ar_package/install.log --single-version-externally-managed

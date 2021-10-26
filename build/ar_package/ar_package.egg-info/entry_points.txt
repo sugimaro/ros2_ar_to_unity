@@ -1,0 +1,3 @@
+[console_scripts]
+ar_node = ar_package.ar_node:main
+
